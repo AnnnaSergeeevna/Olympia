@@ -21,3 +21,5 @@ export const routes: Routes = [
     { path: '**', redirectTo: '' },
 ];
 
+
+export class AppRoutingModule { }
